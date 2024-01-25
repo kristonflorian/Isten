@@ -6,5 +6,5 @@
 - masodikszar  
 1. valami1
 2. valami2
-[linkfos](https://www.oamkft.hu/hu/kezdolap/karrier-es-kepzes/allaskeresoknek)
+[linkfos](https://www.oamkft.hu/hu/kezdolap/karrier-es-kepzes/allaskeresoknek)  
 `Math.Pow(2,4)`
